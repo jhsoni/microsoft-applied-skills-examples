@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "analyze-text", "analyze-text", "{56FAD562-36AF-4F9C-950A-1C7A1146B129}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "analyze-text", "analyze-text\analyze-text\analyze-text.csproj", "{5CFAA4E9-271F-4FF3-8A49-DC7E40932739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CFAA4E9-271F-4FF3-8A49-DC7E40932739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFAA4E9-271F-4FF3-8A49-DC7E40932739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFAA4E9-271F-4FF3-8A49-DC7E40932739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFAA4E9-271F-4FF3-8A49-DC7E40932739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5CFAA4E9-271F-4FF3-8A49-DC7E40932739} = {56FAD562-36AF-4F9C-950A-1C7A1146B129}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A91A4DD-30C7-468B-9F4F-9195352A70A3}
+	EndGlobalSection
+EndGlobal
